@@ -1,0 +1,14 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj A Desai",
+  "license": "ISC",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
+}
